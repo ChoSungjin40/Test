@@ -16,3 +16,7 @@ git push #업로드 push
 
 # 웹에서 readme 수정
 그냥하면 됨
+로컬로 반영할때 
+```
+git pull 
+```
