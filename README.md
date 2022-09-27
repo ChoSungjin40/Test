@@ -13,3 +13,6 @@ git add {파일명 or .(.은 all을 의미)} #준비단계 stage
 git commit -m "나타낼 commit message 내용 기재 : 변경점 서술하는것이 좋음" #변경사항 commit
 git push #업로드 push
 ```
+
+# 웹에서 readme 수정
+그냥하면 됨
